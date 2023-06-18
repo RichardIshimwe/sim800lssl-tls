@@ -8,5 +8,4 @@ app.get("/", (req, res) => {
         messages: "hello from gsm"
     })
 })
-
 app.listen(port);

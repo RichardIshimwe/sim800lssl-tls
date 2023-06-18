@@ -1,0 +1,24 @@
+{
+  "name": "sim800lssl-tls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardIshimwe/sim800lssl-tls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardIshimwe/sim800lssl-tls/issues"
+  },
+  "homepage": "https://github.com/RichardIshimwe/sim800lssl-tls#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
